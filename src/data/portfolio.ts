@@ -58,7 +58,7 @@ export const contact: ContactLink[] = [
   },
   {
     label: 'nicolasmantarasinv@gmail.com',
-    url: 'mailto:nicolasmantarasinv@gmail.com',
+    url: 'https://mail.google.com/mail/?view=cm&to=nicolasmantarasinv@gmail.com',
     icon: 'email',
   },
 ];
