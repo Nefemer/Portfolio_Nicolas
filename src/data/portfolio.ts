@@ -20,7 +20,7 @@ export const personal = {
   role: 'Desarrollador Web',
   bio: 'Apasionado por construir interfaces limpias y código bien estructurado. Especializado en TypeScript y tecnologías web modernas.',
   available: true, // cambia a false si no buscas trabajo
-  cvUrl: '/cv.pdf', // coloca tu CV en la carpeta public/
+  cvUrl: '/Portfolio_Nicolas/cv.pdf', // coloca tu CV en la carpeta public/
 };
 
 export const technologies: string[] = [
